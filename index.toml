@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "curse-jars/ae_universal_press-2.1.1-neoforge-1.21.1.jar"
+hash = "c7eb98b550608ff9145bed126c16eea121ca92f1de29cd85636bf1b223af624b"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -12,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-universal-press.pw.toml"
-hash = "2e1353ec6781210df5f8857a05587218c9b49049630ba965f6534bd4c77fb4a2"
+hash = "5160235ef439166bb31c1b2c3ecc00d16c19b3020710b8d4b98e1dd007cdcdc8"
 metafile = true
 
 [[files]]
