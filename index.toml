@@ -145,18 +145,13 @@ hash = "39dffe95e6fa33b9ae4f96ceae1c87f5c0afc0b9a77c829f12dea1a5e2d5e04a"
 metafile = true
 
 [[files]]
-file = "mods/cc-aeroworks.pw.toml"
-hash = "bd38f3ac8b86e0f27fa6c245c4ffc5b55c7e43a8b16282917c8a8f645aad2d91"
-metafile = true
-
-[[files]]
 file = "mods/cc-my-peripheral-extender.pw.toml"
 hash = "3730d2268ce941ff70aa45cfdc2de481e1927f5f3f99ece57e548442fa958e42"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "594cf4ca23d3eca84b27092e170737cd6a51a99a3a83c864f68512b02e487efb"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -196,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "4fae7934561a472924fc5242aaab478f6e284f26387dd00e776f95691567dac7"
+hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
 
 [[files]]
@@ -517,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/creator-sword.pw.toml"
 hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
 
 [[files]]
@@ -892,6 +892,11 @@ metafile = true
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
 hash = "bbbc01c1738448c25664f5f6306ae0a4e90ab484d09c1666053e5378f480fddd"
+metafile = true
+
+[[files]]
+file = "mods/tiny-config.pw.toml"
+hash = "be98f35a27ed18827b70b4aa3fce92067d7a3d00f4d39d1ada5797cfb90fa470"
 metafile = true
 
 [[files]]
