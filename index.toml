@@ -11,6 +11,11 @@ hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
 
 [[files]]
+file = "mods/ae2-universal-press.pw.toml"
+hash = "2e1353ec6781210df5f8857a05587218c9b49049630ba965f6534bd4c77fb4a2"
+metafile = true
+
+[[files]]
 file = "mods/alex-s-improvements-create-crowns-x-create-more-burners-compat.pw.toml"
 hash = "240c4fce233b7d66d20d208ee22f6b02c98ee41bcaba6b02e5193ba689a39ba5"
 metafile = true
