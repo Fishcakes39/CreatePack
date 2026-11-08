@@ -15,6 +15,11 @@ hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-structures.pw.toml"
+hash = "2a8b9014e2a03441eb25964c9ee6e8f4fe531071a9387bd48905b6e159c35db0"
+metafile = true
+
+[[files]]
 file = "mods/alex-s-improvements-create-crowns-x-create-more-burners-compat.pw.toml"
 hash = "240c4fce233b7d66d20d208ee22f6b02c98ee41bcaba6b02e5193ba689a39ba5"
 metafile = true
