@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "02878ef32a25b266ef205d7598d4bf472226a00266f6b816b3f83fcb2d954769"
+hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "91cb4442cd772aaba9cb7c442bc323217cb741a7c93322e54e6dab7d04e039bc"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "4cdd3a94451efd61ad53cec5019557042cc9a3bc455632aa931663b70850958a"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
