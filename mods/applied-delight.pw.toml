@@ -1,0 +1,13 @@
+name = "Applied Delight"
+filename = "applieddelight-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "032c0cf9a0b96380b06d613a09299ee644bafac4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8543077
+project-id = 1621418

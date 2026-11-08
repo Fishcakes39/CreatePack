@@ -1,0 +1,13 @@
+name = "CC-Aeroworks"
+filename = "cc-aeroworks-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJqoniYI/versions/EEgCpJyz/cc-aeroworks-1.5.0.jar"
+hash-format = "sha512"
+hash = "1dc14cd643da3cc99c9556b509b473cc2c0f997e586c219f604b0f84f031dc70ad986e4bb6a5de8aad2d9ed76c525dac9ecc34e3da431c4284c16e038e8f3e04"
+
+[update]
+[update.modrinth]
+mod-id = "YJqoniYI"
+version = "EEgCpJyz"

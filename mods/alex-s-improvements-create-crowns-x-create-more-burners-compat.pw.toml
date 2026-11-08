@@ -1,0 +1,13 @@
+name = "Alex's improvements (Create CROWNS x Create: More Burners Compat)"
+filename = "alexsimprovements-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46e25ce56cf323e02950f5794897bc88b000bfd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8402471
+project-id = 1356195
