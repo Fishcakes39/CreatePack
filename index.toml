@@ -215,6 +215,11 @@ hash = "855115953ba5367522242f9548235b93c347a6ca6a0ab0737e7df233027b138d"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "f4f8b5eb8c1427b6bd83ca70a3dbec9845b8c5a37b9ba72b9a49ee0e45136562"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-automated-logistics.pw.toml"
 hash = "86f89a56a51a5f19918b60fcd1ca7fd420e2c89671583f4358e991562c7a073e"
 metafile = true
