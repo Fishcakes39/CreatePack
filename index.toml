@@ -165,6 +165,11 @@ hash = "7d885274400fb6f59e64b9fdabf05d2efc4a608427b26da6c2c45190321589d3"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "74e817fb0fa9e1ff1ef2aa0e742bdd2504a40c02ab72dc1d5c671d20444cb037"
 metafile = true
@@ -525,11 +530,6 @@ hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
@@ -616,12 +616,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-bonk.pw.toml"
-hash = "fc7cdd6787c0cccb866b3ce89bb25184c640b49c78d9013b25d40422f4fc05cf"
+hash = "6ca0f171729257927a92fb0baefe33f82068e6dc8f1700a9391cbf763a911540"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
@@ -857,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "f80ded04805b3c43a47b1915dcec768cfd37fc94cf189749e07a7a42d94ff9d6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
