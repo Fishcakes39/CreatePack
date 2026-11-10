@@ -940,11 +940,6 @@ hash = "a7f7162205a99fed65c2191907c00ee6a5f8a8a87cfd661e8d3829ebe346306f"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "39872d5e20e4d66727d817eb1d472f02ac6414227ca50bbf6b8c20fe4bfdf64b"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-end-island-neoforge.pw.toml"
 hash = "37417dc78726d2d6c01da523ef791c73ce752bb163965270ecec29ee1af54a0d"
 metafile = true
