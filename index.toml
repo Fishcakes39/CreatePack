@@ -615,6 +615,11 @@ hash = "393599b201dad57245cba41db57262dd43b2ddcecc2ef8ea8ee09ddb28a926c0"
 metafile = true
 
 [[files]]
+file = "mods/iris-bonk.pw.toml"
+hash = "fc7cdd6787c0cccb866b3ce89bb25184c640b49c78d9013b25d40422f4fc05cf"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
