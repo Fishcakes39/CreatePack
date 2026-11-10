@@ -160,11 +160,6 @@ hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "1e35822d7c167184d78651887d9823feca7a128688daedfdb93f0a33a3e2c1cf"
-metafile = true
-
-[[files]]
 file = "mods/chloride.pw.toml"
 hash = "7d885274400fb6f59e64b9fdabf05d2efc4a608427b26da6c2c45190321589d3"
 metafile = true
@@ -722,11 +717,6 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "44712bc049291758d2d7b7bd1de5ef72b528ddc5c0dab50745d9c2a32951e4db"
-metafile = true
-
-[[files]]
-file = "mods/nukateams-gun-lib.pw.toml"
-hash = "8b4af86dc4c1846469326cc3fe73350a98a119650be241e499c6bd575c2e2482"
 metafile = true
 
 [[files]]
