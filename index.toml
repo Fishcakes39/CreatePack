@@ -165,6 +165,11 @@ hash = "7d885274400fb6f59e64b9fdabf05d2efc4a608427b26da6c2c45190321589d3"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "f57e49c9f51ad7cc781f912f27c59a8d8cb165088c67ae832c87b40344d76445"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -192,6 +197,16 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
+metafile = true
+
+[[files]]
+file = "mods/compat-api.pw.toml"
+hash = "45fd9d336caa62aa1cd9ca477baad3168c407c0f3ac366700975242db86ec7a9"
+metafile = true
+
+[[files]]
+file = "mods/compat-structure.pw.toml"
+hash = "4471f044739ed8a611555bf2527dfff000ab556063b140f79dba67aa58d9cc26"
 metafile = true
 
 [[files]]
@@ -261,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-applied-kinetics.pw.toml"
-hash = "2a70a7daebd5047cc34f3d1965ec45724f966be3206a0095b07c82e07495d77c"
+hash = "c3a5221fbae821e13325a92d9863f56cbfc00d20b09a0a34353b67a9fa7f8cb7"
 metafile = true
 
 [[files]]
@@ -697,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f5bba8e4957d5f6d549838d9997b04056d5b15182cccdcd5827c7ee8ae093917"
 metafile = true
 
 [[files]]
