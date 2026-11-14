@@ -470,11 +470,6 @@ hash = "59a977a5c4472d1c269874db6c51bd0f6d3832f42b03230caa09890364c2b4ff"
 metafile = true
 
 [[files]]
-file = "mods/create-silicon-works.pw.toml"
-hash = "1c5b14a9524c5a7b50c2fbb28dfd83b5b7e693bbdd497165ee865cbab7625342"
-metafile = true
-
-[[files]]
 file = "mods/create-stock-bridge.pw.toml"
 hash = "5426e7b1e7a895606d788cdc1d21915423bac84e5fed1ca62386e66b7ba1bec5"
 metafile = true
@@ -496,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "c0305f50ffecb410429b5a212450663cb82ca17fc9c1d84bccd908b1b4a5ecb3"
+hash = "e44ca753d288a7ace1ad5fafa0dec67efb0c79a0fa29f51fd24073fcb011b8fd"
 metafile = true
 
 [[files]]
