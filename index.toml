@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "442ac5b056bfdca1104bc27560fa59a290b96ccd08fe1a1a9ee6718d8720e0de"
+hash = "e64dfee39791ca0193760cc862a58a1d563317788d6e556e8c2c76fa1dcb3aae"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-octo-arms.pw.toml"
-hash = "0b9f0c2ecdee232010a703049b18caece05d41daf8a903b0068c6e411ec0025a"
+hash = "16ece98bba8b29d9123cec4a9c1b9684873d7a686992a153735830e032567bde"
 metafile = true
 
 [[files]]
@@ -466,7 +466,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "71f197f9218155d25ccae96fde48fec0f94824c4bc44b43e16320096ba251803"
+hash = "59a977a5c4472d1c269874db6c51bd0f6d3832f42b03230caa09890364c2b4ff"
+metafile = true
+
+[[files]]
+file = "mods/create-silicon-works.pw.toml"
+hash = "1c5b14a9524c5a7b50c2fbb28dfd83b5b7e693bbdd497165ee865cbab7625342"
 metafile = true
 
 [[files]]
@@ -487,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
+metafile = true
+
+[[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "c0305f50ffecb410429b5a212450663cb82ca17fc9c1d84bccd908b1b4a5ecb3"
 metafile = true
 
 [[files]]
@@ -526,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/createnuclear.pw.toml"
-hash = "21ac1923bd543d6e50a982fa1e5ee6b427ca2e0ebc3fe8de2a0dba97641e78a9"
+hash = "8f84b6788d9876ea1d7fa527b667482b6e26bb14af6735c4c79138d164442e68"
 metafile = true
 
 [[files]]
@@ -577,6 +587,16 @@ metafile = true
 [[files]]
 file = "mods/formicapi.pw.toml"
 hash = "0376a5042d0826d98b289a46fb23d33d5cc49d049a1f9b4e5300ad5a634bf466"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "d1665d3000a0857df2d4ea5d3b3a6c5e2b0a60b0c83f8c0f30f05b5305b1878f"
 metafile = true
 
 [[files]]
@@ -696,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-it-walk.pw.toml"
-hash = "ed76e7c14e0c8f13bdf0f8492a52cfe68f0c3c6e833fe3c3b3bf30e05f73a128"
+hash = "0bf08f8e608e27fcb8c7f198618e08e19dfa01602a892e8110ed04efeea23463"
 metafile = true
 
 [[files]]
@@ -866,12 +886,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f87df94252052022b6f742afc834092a594e4e6fdedf3837cfccc899aaa462d6"
+hash = "9bc110bc3856f564d2da98ae94a2ac91514cf9a206089b3607657468e98bf198"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d40a69f11492c5d836cf1391b02edf806abd739c1b41e39aff7151d28369a99d"
+hash = "5595180841498e564236e26c66a5d7d790a2fcd52da68707f0c8ac15fd03e3a2"
 metafile = true
 
 [[files]]
@@ -881,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f80ded04805b3c43a47b1915dcec768cfd37fc94cf189749e07a7a42d94ff9d6"
+hash = "daf137e8a49ade4dd31c65befa0fe1136cd834e43714a989db482c133f7d45d4"
 metafile = true
 
 [[files]]
@@ -941,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "8e080953c426e3c23a778dd2329f8520276c9e3299edb3aef2896bc6855da683"
+hash = "024ff63b5e5b3a9c957328bf0de645530eb4592830760266e1da0bb23d0616ac"
 metafile = true
 
 [[files]]

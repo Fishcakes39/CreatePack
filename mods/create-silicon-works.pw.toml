@@ -1,0 +1,13 @@
+name = "Create: Silicon Works"
+filename = "sw-mc1.21.1-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cbffd81a386cca80b33e2744d430e66583867b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9564819
+project-id = 1728927
