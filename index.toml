@@ -5,6 +5,11 @@ file = "curse-jars/ae_universal_press-2.1.1-neoforge-1.21.1.jar"
 hash = "c7eb98b550608ff9145bed126c16eea121ca92f1de29cd85636bf1b223af624b"
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -195,6 +200,11 @@ hash = "9efbe591998da8af4097f025135e7e4350dbb4b36ad243e3e632914d096d1140"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "eb7e71de54acb05420aa24ce7badf2aa340f9f1c8a5461220f22ff0100a0d991"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
@@ -282,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/create-avionics-computercraft-for-aeronautics.pw.toml"
 hash = "660e50e8a6e186a6c75084067ad7a503dab49be169ae8bd47b11125fa9eebb97"
+metafile = true
+
+[[files]]
+file = "mods/create-better-fps.pw.toml"
+hash = "40a0eda70974561a7ed696dfd197b871ee5b28f811f5b03c780face2cdc75343"
 metafile = true
 
 [[files]]
@@ -402,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "66dad0a817d432dc7937a406af556e8cc877711cf942aeec4a04406ee48148c9"
 metafile = true
 
 [[files]]
@@ -580,6 +600,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "ea879effd2985217fdccf21361c11d0e84cd605108e24c58bc9990a29cae3377"
+metafile = true
+
+[[files]]
 file = "mods/formicapi.pw.toml"
 hash = "0376a5042d0826d98b289a46fb23d33d5cc49d049a1f9b4e5300ad5a634bf466"
 metafile = true
@@ -626,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
-hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
+hash = "081dd9f977b3403d045085d30ecdd0d7064b0042e6b055636c2f119ce8b86936"
 metafile = true
 
 [[files]]
@@ -701,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
+hash = "7211de0ddeab153fc2bf9588f5922de705006be507002ec03cb9f8e6b67ab4cf"
 metafile = true
 
 [[files]]
@@ -742,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "b0c3d1ba984a9188d074634f45f17e3e2a248d5324b438f2ba4d18b3894b360e"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "fd9daadc1bcff656df1dcd444c02618ad9802ab9c4a2487b8b7d02026f107309"
 metafile = true
 
 [[files]]
@@ -815,6 +845,11 @@ hash = "ae8e448fe3c56667203cd20d9e96058594a8e263d96bc64fbcaebd07b89d23c9"
 metafile = true
 
 [[files]]
+file = "mods/reggadium-embeddium-sodium-create.pw.toml"
+hash = "685fbea9dfed72d64f3bc93a5cb9b55d745c5a3ae81e12f56b5d440f3051fada"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
 metafile = true
@@ -881,12 +916,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9bc110bc3856f564d2da98ae94a2ac91514cf9a206089b3607657468e98bf198"
+hash = "a92eb8ece81a5134b9fd1d19d1735a58af1d189ad1fb0135e0cf713d35d36b81"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5595180841498e564236e26c66a5d7d790a2fcd52da68707f0c8ac15fd03e3a2"
+hash = "8dfb0b7c7546a01911daff294b76a15e1db958579dce15d71e0ef68e8594bd65"
 metafile = true
 
 [[files]]
@@ -896,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "daf137e8a49ade4dd31c65befa0fe1136cd834e43714a989db482c133f7d45d4"
+hash = "91987e941f5545bc14854e8f44d8cff78486a272ca5822275a5424b23d14f679"
 metafile = true
 
 [[files]]
@@ -956,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "024ff63b5e5b3a9c957328bf0de645530eb4592830760266e1da0bb23d0616ac"
+hash = "a984bf06ac1941645708d7181cd31dc840bc109b9087bdae4b57de87bb38fee8"
 metafile = true
 
 [[files]]

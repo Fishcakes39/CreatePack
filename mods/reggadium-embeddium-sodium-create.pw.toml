@@ -1,0 +1,13 @@
+name = "Reggadium (Embeddium/Sodium for Create)"
+filename = "reggadium-neoforge-1.21.1-1.3-beta.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "138b15b5ec9ed84b87a6520d5470c018b1397dfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9401116
+project-id = 1772884
