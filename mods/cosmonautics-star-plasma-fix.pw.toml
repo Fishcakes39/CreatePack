@@ -1,0 +1,13 @@
+name = "Cosmonautics Star Plasma Fix"
+filename = "cosmoplasmafix-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "82cdf44e2b47f123765b9e7def243943e452d10e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9148602
+project-id = 1741583
