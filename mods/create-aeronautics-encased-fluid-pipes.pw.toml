@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Encased Fluid Pipes"
+filename = "aeroencasedpipe-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a178204c29d79e26bfcf54070b243d6dfb9d54f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9686597
+project-id = 1577030

@@ -1,13 +1,13 @@
 name = "Create: Powerplantgrid"
-filename = "powerplantgrid-0.1.1.jar"
+filename = "powerplantgrid-0.1.4-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df7972855c0ac00bbb7f18296e5b9ec6d0329d1e"
+hash = "0a0fc02dc9078712c67a5929af083c5ef4e019ef"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8782896
+file-id = 9759601
 project-id = 1660050
