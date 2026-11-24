@@ -5,6 +5,10 @@ file = "curse-jars/ae_universal_press-2.1.1-neoforge-1.21.1.jar"
 hash = "c7eb98b550608ff9145bed126c16eea121ca92f1de29cd85636bf1b223af624b"
 
 [[files]]
+file = "curse-jars/crush-depth-1.11.1.jar"
+hash = "50b4b3f2a7851f1d2d08c547c08b719c2b14f598275f951a9e58a96082e5b678"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
@@ -572,11 +576,6 @@ metafile = true
 [[files]]
 file = "mods/creator-sword.pw.toml"
 hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
-metafile = true
-
-[[files]]
-file = "mods/crush-depth.pw.toml"
-hash = "eb0ccac69c8dfee968f0a0da3b65df8fb1d275791de6a7b0078a179ddc7fd018"
 metafile = true
 
 [[files]]
