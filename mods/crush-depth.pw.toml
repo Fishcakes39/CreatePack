@@ -1,0 +1,8 @@
+name = "crush-depth"
+filename = "crush-depth-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/CreatePack/raw/refs/heads/main/curse-jars/crush-depth-1.11.1.jar"
+hash-format = "sha256"
+hash = "50b4b3f2a7851f1d2d08c547c08b719c2b14f598275f951a9e58a96082e5b678"

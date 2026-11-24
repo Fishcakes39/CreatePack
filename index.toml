@@ -579,6 +579,11 @@ hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
 metafile = true
 
 [[files]]
+file = "mods/crush-depth.pw.toml"
+hash = "2a5230efef2ca25e8b11f593fe0521d0f6f3766f36002cb4b882c9c81b635504"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
