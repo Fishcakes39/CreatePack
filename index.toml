@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "4b78352cbccdb3400530955a3e1271b2a60aec604e26e2ecdbf840faf0457d47"
+hash = "7ef227b056ff62f602db935025c9bf106b22bf1d4b77568d956b71c810c24c23"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-my-peripheral-extender.pw.toml"
-hash = "3730d2268ce941ff70aa45cfdc2de481e1927f5f3f99ece57e548442fa958e42"
+hash = "62bd3eb654ed92485c4814d4ecd5d93e2fd6c7534c6c6ff6dbfd729f7dc99808"
 metafile = true
 
 [[files]]
@@ -225,6 +225,11 @@ hash = "e1bc8fc5a4b9576289665ebdd4f9bb5ee0c582c73e5da80bcea97465156e3105"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "22f10ce78470e4852c5b22fe8b934dc70d4d1442122a7da338b0516086cc4553"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
-hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
+hash = "baa7bdc8e127e75c7c49f45940339b431865bc9c77a272708f4864f55baa5d5e"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "c923e2f3c07aa6bb733ecbfdeb40ebcc5706dc24fe57d3f96bdbf0008899e7b7"
+hash = "28628bfca855cfaf428fec7701ec41ccae2cf255ef64613960ed4ff097516afe"
 metafile = true
 
 [[files]]
@@ -496,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "f3ad62324eca1729d3917b2abd07d1f7a4e670d252f06fd867093af34fcc9521"
+hash = "3a27cbefc7390d3a842eb4479a4f3f026a82fcb5f260991c41b8489574202392"
 metafile = true
 
 [[files]]
@@ -521,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "e44ca753d288a7ace1ad5fafa0dec67efb0c79a0fa29f51fd24073fcb011b8fd"
+hash = "2df0e06c7f4e5d93e05935ad83394b4b3cea031931ea37246c6486a29c3e5f2e"
 metafile = true
 
 [[files]]
@@ -567,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/creator-sword.pw.toml"
 hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
+metafile = true
+
+[[files]]
+file = "mods/crush-depth.pw.toml"
+hash = "eb0ccac69c8dfee968f0a0da3b65df8fb1d275791de6a7b0078a179ddc7fd018"
 metafile = true
 
 [[files]]
